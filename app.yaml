@@ -2,6 +2,10 @@ api_version: 1
 runtime: python27
 threadsafe: true
 
+env_variables:
+  DEFAULT_BUCKET: 'nle3-images'
+  API_KEY: 'your-api-key-here'
+
 libraries:
 - name: ssl
   version: latest
