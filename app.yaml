@@ -4,7 +4,7 @@ threadsafe: true
 
 env_variables:
   DEFAULT_BUCKET: 'nle3-images'
-  API_KEY: 'your-api-key-here'
+  API_KEY: 'cc36d656e40d6ba38be2c1b31a3253e1e9bde3e3c509ae44cfecaf09b4227aa8'
 
 libraries:
 - name: ssl
